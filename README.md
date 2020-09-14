@@ -2,7 +2,7 @@
 
 <img src= "https://media.vlpt.us/images/ifyouseeksoomi/post/7604f5a5-3526-4c1d-8f8d-c3b190b22821/DRF.png">
 
-DRF udemy 강의록 겸 코드 복습입니다.
+DRF udemy 강의록 겸 코드 복습입니다. <br>
 (lecture url: https://www.udemy.com/course/the-complete-guide-to-django-rest-framework-and-vue-js)
 
 ## Features
