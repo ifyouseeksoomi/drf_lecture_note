@@ -1,4 +1,4 @@
-## Django Rest Framework - lecture note (review)
+## ✅ Django Rest Framework - lecture note (review)
 
 <img src= "https://media.vlpt.us/images/ifyouseeksoomi/post/7604f5a5-3526-4c1d-8f8d-c3b190b22821/DRF.png">
 
